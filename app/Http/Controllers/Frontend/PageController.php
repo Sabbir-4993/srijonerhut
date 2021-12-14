@@ -10,4 +10,8 @@ class PageController extends Controller
     public function index(){
         return view('Frontend.pages.home');
     }
+
+    public function schedule(){
+        return view('Frontend.pages.schedule');
+    }
 }

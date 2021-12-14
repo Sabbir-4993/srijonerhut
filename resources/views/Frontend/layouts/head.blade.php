@@ -6,7 +6,7 @@
 
     <meta charset="utf-8">
 
-    <title>Srijoner Hut - Bengali Film Festival</title>
+    <title>@yield('title')</title>
 
     <!-- Stylesheets -->
 

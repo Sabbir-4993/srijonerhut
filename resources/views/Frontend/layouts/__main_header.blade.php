@@ -1,4 +1,4 @@
-<header class="main-header">
+<header class="main-header @yield('header_style')">
 
     <div class="main-box">
 
@@ -6,7 +6,7 @@
 
             <div class="logo-box">
 
-                <div class="logo"><a href="#"><img src="{{asset('assets/images/logo/logo-200x70.png')}}" alt="" title=""></a></div>
+                <div class="logo"><a href="{{route('index')}}"><img src="{{asset('assets/images/logo/logo-200x70.png')}}" alt="Srijoner Hut Logo" title="Srijoner Hut Logo"></a></div>
 
             </div>
 
@@ -36,10 +36,10 @@
 
                     <div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
                         <ul class="navigation clearfix">
-                            <li class="current"><a href="#">Home</a></li>
+                            <li class="current"><a href="{{route('index')}}">Home</a></li>
                             <li class="dropdown"><a href="#">Festival</a>
                                 <ul>
-                                    <li><a href="#">Schedules</a></li>
+                                    <li><a href="{{route('schedule')}}">Schedules</a></li>
                                     <li><a href="#">Tickets & Passes</a></li>
                                     <li><a href="#">Our Sponsors</a></li>
                                 </ul>
@@ -98,7 +98,7 @@
 
         <nav class="menu-box">
 
-            <div class="nav-logo"><a href="#"><img src="{{asset('assets/images/logo/logo-200x70.png')}}'" alt="" title=""></a></div>
+            <div class="nav-logo"><a href="{{route('index')}}"><img src="{{asset('assets/images/logo/logo-200x70.png')}}'" alt="Srijoner Hut Logo" title="Srijoner Hut Logo"></a></div>
 
             <ul class="navigation clearfix"></ul>
 

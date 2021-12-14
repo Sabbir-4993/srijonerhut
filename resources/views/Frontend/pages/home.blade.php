@@ -1,5 +1,9 @@
 @extends('Frontend.master')
 
+@section('title')
+Srijoner Hut - Bengali Film Festival
+@endsection
+
 
 @section('content')
 

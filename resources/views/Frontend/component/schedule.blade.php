@@ -104,7 +104,7 @@
 
                                     <div class="speaker-info">
 
-                                        <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>
+                                        <figure class="thumb"><img src="{{asset('assets/images/resource/thumb-1.jpg')}}" alt=""></figure>
 
                                         <h5 class="name">Ashli Scroggy</h5>
 
@@ -142,7 +142,7 @@
 
                                     <div class="speaker-info">
 
-                                        <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
+                                        <figure class="thumb"><img src="{{asset('assets/images/resource/thumb-2.jpg')}}" alt=""></figure>
 
                                         <h5 class="name">Ashli Scroggy</h5>
 
@@ -180,7 +180,7 @@
 
                                     <div class="speaker-info">
 
-                                        <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>
+                                        <figure class="thumb"><img src="{{asset('assets/images/resource/thumb-1.jpg')}}" alt=""></figure>
 
                                         <h5 class="name">Ashli Scroggy</h5>
 
@@ -218,7 +218,7 @@
 
                                     <div class="speaker-info">
 
-                                        <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
+                                        <figure class="thumb"><img src="{{asset('assets/images/resource/thumb-2.jpg')}}" alt=""></figure>
 
                                         <h5 class="name">Ashli Scroggy</h5>
 
@@ -266,7 +266,7 @@
 
                                     <div class="speaker-info">
 
-                                        <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>
+                                        <figure class="thumb"><img src="{{asset('assets/images/resource/thumb-1.jpg')}}" alt=""></figure>
 
                                         <h5 class="name">Ashli Scroggy</h5>
 
@@ -304,7 +304,7 @@
 
                                     <div class="speaker-info">
 
-                                        <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
+                                        <figure class="thumb"><img src="{{asset('assets/images/resource/thumb-2.jpg')}}" alt=""></figure>
 
                                         <h5 class="name">Ashli Scroggy</h5>
 
@@ -342,7 +342,7 @@
 
                                     <div class="speaker-info">
 
-                                        <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>
+                                        <figure class="thumb"><img src="{{asset('assets/images/resource/thumb-1.jpg')}}" alt=""></figure>
 
                                         <h5 class="name">Ashli Scroggy</h5>
 
@@ -380,7 +380,7 @@
 
                                     <div class="speaker-info">
 
-                                        <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
+                                        <figure class="thumb"><img src="{{asset('assets/images/resource/thumb-2.jpg')}}" alt=""></figure>
 
                                         <h5 class="name">Ashli Scroggy</h5>
 
@@ -428,7 +428,7 @@
 
                                     <div class="speaker-info">
 
-                                        <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>
+                                        <figure class="thumb"><img src="{{asset('assets/images/resource/thumb-1.jpg')}}" alt=""></figure>
 
                                         <h5 class="name">Ashli Scroggy</h5>
 
@@ -466,7 +466,7 @@
 
                                     <div class="speaker-info">
 
-                                        <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
+                                        <figure class="thumb"><img src="{{asset('assets/images/resource/thumb-2.jpg')}}" alt=""></figure>
 
                                         <h5 class="name">Ashli Scroggy</h5>
 
@@ -504,7 +504,7 @@
 
                                     <div class="speaker-info">
 
-                                        <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>
+                                        <figure class="thumb"><img src="{{asset('assets/images/resource/thumb-1.jpg')}}" alt=""></figure>
 
                                         <h5 class="name">Ashli Scroggy</h5>
 
@@ -542,7 +542,7 @@
 
                                     <div class="speaker-info">
 
-                                        <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
+                                        <figure class="thumb"><img src="{{asset('assets/images/resource/thumb-2.jpg')}}" alt=""></figure>
 
                                         <h5 class="name">Ashli Scroggy</h5>
 
@@ -590,7 +590,7 @@
 
                                     <div class="speaker-info">
 
-                                        <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>
+                                        <figure class="thumb"><img src="{{asset('assets/images/resource/thumb-1.jpg')}}" alt=""></figure>
 
                                         <h5 class="name">Ashli Scroggy</h5>
 
@@ -628,7 +628,7 @@
 
                                     <div class="speaker-info">
 
-                                        <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
+                                        <figure class="thumb"><img src="{{asset('assets/images/resource/thumb-2.jpg')}}" alt=""></figure>
 
                                         <h5 class="name">Ashli Scroggy</h5>
 
@@ -666,7 +666,7 @@
 
                                     <div class="speaker-info">
 
-                                        <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>
+                                        <figure class="thumb"><img src="{{asset('assets/images/resource/thumb-1.jpg')}}" alt=""></figure>
 
                                         <h5 class="name">Ashli Scroggy</h5>
 
@@ -704,7 +704,7 @@
 
                                     <div class="speaker-info">
 
-                                        <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
+                                        <figure class="thumb"><img src="{{asset('assets/images/resource/thumb-2.jpg')}}" alt=""></figure>
 
                                         <h5 class="name">Ashli Scroggy</h5>
 

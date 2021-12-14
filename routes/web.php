@@ -15,6 +15,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', 'Frontend\PageController@index')->name('index');
+Route::get('/schedule', 'Frontend\PageController@schedule')->name('schedule');
 
 
 
