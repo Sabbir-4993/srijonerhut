@@ -1,4 +1,4 @@
-<section class="page-title" style="background-image:url("{{asset('assets/images/background/5.jpg')}}");">
+<section class="page-title" style="background-image:url(@yield('bg'));">
     <div class="auto-container">
         <h1>@yield('page_name')</h1>
         <ul class="bread-crumb clearfix">

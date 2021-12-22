@@ -18,7 +18,7 @@
 
             <span class="title">Get Ticket</span>
 
-            <h2>Choose a Ticket</h2>
+            <h2>Choose Your Ticket</h2>
 
         </div>
 

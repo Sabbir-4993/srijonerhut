@@ -26,6 +26,8 @@
 
 <script src="{{asset('assets/js/color-settings.js')}}"></script>
 
+@yield('js')
+
 </body>
 
 </html>

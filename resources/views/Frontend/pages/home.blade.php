@@ -102,10 +102,11 @@ Srijoner Hut - Bengali Film Festival
     <!--End Register Section -->
 
 
+{{--    @include('Frontend.component.gallery_slide')--}}
 
     <!-- News Section -->
 
-    @include('Frontend.component.blog')
+{{--    @include('Frontend.component.blog')--}}
 
     <!--End News Section -->
 

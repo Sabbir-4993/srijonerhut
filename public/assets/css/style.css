@@ -1059,7 +1059,7 @@ img{
 	transition:all 300ms ease;
 }
 
-.main-menu .navigation > li.current > a:before,
+.main-menu .navigation > li.active > a:before,
 .main-menu .navigation > li:hover > a:before{
 	left: 0;
 	width: 100%;
@@ -1647,7 +1647,7 @@ img{
 }
 
 .mobile-menu .navigation li:hover > a,
-.mobile-menu .navigation li.current > a{
+.mobile-menu .navigation li.active > a{
 	color:#e1137b;
 }
 
@@ -5838,7 +5838,7 @@ img{
 	border-top: 0;
 }
 
-.accordion-box .block .acc-content.current{
+.accordion-box .block .acc-content.active{
 	display:block;
 }
 

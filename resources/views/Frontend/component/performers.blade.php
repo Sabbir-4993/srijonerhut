@@ -15,14 +15,13 @@
         <div class="row">
 
             <!-- Speaker Block -->
-
-            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+            <div class="speaker-block col-lg-4 col-md-6 col-sm-12">
 
                 <div class="inner-box">
 
                     <div class="image-box">
 
-                        <figure class="image"><a href="speakers-detail.html"><img src="{{asset('../../assets/images/resource/speaker-1.jpg')}}" alt=""></a></figure>
+                        <figure class="image"><a href="speakers-detail.html"><img src="{{asset('assets/images/team/co-founder/Tariq.png')}}" alt=""></a></figure>
 
                     </div>
 
@@ -30,9 +29,9 @@
 
                         <div class="inner">
 
-                            <h4 class="name"><a href="speakers-detail.html">Dale Marke</a></h4>
+                            <h4 class="name"><a href="speakers-detail.html">Tariq Yasin Uzwal</a></h4>
 
-                            <span class="designation">Event Manager</span>
+                            <span class="designation">Co Founder</span>
 
                             <ul class="social-links social-icon-colored">
 
@@ -54,17 +53,14 @@
 
             </div>
 
-
-
             <!-- Speaker Block -->
-
-            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+            <div class="speaker-block col-lg-4 col-md-6 col-sm-12">
 
                 <div class="inner-box">
 
                     <div class="image-box">
 
-                        <figure class="image"><a href="speakers-detail.html"><img src="{{asset('../../assets/images/resource/speaker-2.jpg')}}" alt=""></a></figure>
+                        <figure class="image"><a href="speakers-detail.html"><img src="{{asset('assets/images/team/co-founder/Tanveer-Rahman.png')}}" alt=""></a></figure>
 
                     </div>
 
@@ -72,9 +68,9 @@
 
                         <div class="inner">
 
-                            <h4 class="name"><a href="speakers-detail.html">Natisha Decoux</a></h4>
+                            <h4 class="name"><a href="speakers-detail.html">Tanveer Rahman</a></h4>
 
-                            <span class="designation">Event Manager</span>
+                            <span class="designation">Co Founder</span>
 
                             <ul class="social-links social-icon-colored">
 
@@ -96,17 +92,14 @@
 
             </div>
 
-
-
             <!-- Speaker Block -->
-
-            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+            <div class="speaker-block col-lg-4 col-md-6 col-sm-12">
 
                 <div class="inner-box">
 
                     <div class="image-box">
 
-                        <figure class="image"><a href="speakers-detail.html"><img src="{{asset('../../assets/images/resource/speaker-3.jpg')}}" alt=""></a></figure>
+                        <figure class="image"><a href="speakers-detail.html"><img src="{{asset('assets/images/team/co-founder/Urmi-Adiba.png')}}" alt=""></a></figure>
 
                     </div>
 
@@ -114,9 +107,9 @@
 
                         <div class="inner">
 
-                            <h4 class="name"><a href="speakers-detail.html">Adolfo Plahs</a></h4>
+                            <h4 class="name"><a href="speakers-detail.html">Urmi Adiba</a></h4>
 
-                            <span class="designation">Event Manager</span>
+                            <span class="designation">Co Founder</span>
 
                             <ul class="social-links social-icon-colored">
 
@@ -138,10 +131,7 @@
 
             </div>
 
-
-
             <!-- Speaker Block -->
-
             <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
 
                 <div class="inner-box">
@@ -180,10 +170,7 @@
 
             </div>
 
-
-
             <!-- Speaker Block -->
-
             <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
 
                 <div class="inner-box">
@@ -222,10 +209,7 @@
 
             </div>
 
-
-
             <!-- Speaker Block -->
-
             <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
 
                 <div class="inner-box">
@@ -264,10 +248,7 @@
 
             </div>
 
-
-
             <!-- Speaker Block -->
-
             <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
 
                 <div class="inner-box">
@@ -306,10 +287,7 @@
 
             </div>
 
-
-
             <!-- Speaker Block -->
-
             <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
 
                 <div class="inner-box">
