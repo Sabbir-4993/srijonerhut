@@ -1,12 +1,25 @@
 <!DOCTYPE html>
-
 <html lang="en">
-
 <head>
-
     <meta charset="utf-8">
-
+    <!-- Primary Meta Tags -->
     <title>@yield('title')</title>
+    <meta name="title" content="Srijoner Hut - Bengali Film Festival">
+    <meta name="description" content="We are designing a safe and accessible Festival where our audiences and artists can come together to celebrate and discover DFW, and each other. We can’t wait to return — and beyond — for next year’s 5th Bengali Film Festival of Dallas. The 2022 Festival will take place in person July 29–31. ">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://srijonerhut.com">
+    <meta property="og:title" content="Srijoner Hut - Bengali Film Festival">
+    <meta property="og:description" content="We are designing a safe and accessible Festival where our audiences and artists can come together to celebrate and discover DFW, and each other. We can’t wait to return — and beyond — for next year’s 5th Bengali Film Festival of Dallas. The 2022 Festival will take place in person July 29–31. ">
+    <meta property="og:image" content="https://srijonerhut.com/">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://srijonerhut.com">
+    <meta property="twitter:title" content="Srijoner Hut - Bengali Film Festival">
+    <meta property="twitter:description" content="We are designing a safe and accessible Festival where our audiences and artists can come together to celebrate and discover DFW, and each other. We can’t wait to return — and beyond — for next year’s 5th Bengali Film Festival of Dallas. The 2022 Festival will take place in person July 29–31. ">
+    <meta property="twitter:image" content="https://srijonerhut.com/">
 
     <!-- Stylesheets -->
     <link href="{{asset('assets/css/bootstrap.css')}}" rel="stylesheet">
