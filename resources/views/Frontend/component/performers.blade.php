@@ -10,11 +10,11 @@
             <div class="speaker-block col-lg-4 col-md-6 col-sm-12">
                 <div class="inner-box">
                     <div class="image-box">
-                        <figure class="image"><a href="speakers-detail.html"><img src="{{asset('assets/images/team/co-founder/Tariq.png')}}" alt=""></a></figure>
+                        <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/images/team/co-founder/Tariq.png')}}" alt=""></a></figure>
                     </div>
                     <div class="info-box">
                         <div class="inner">
-                            <h4 class="name"><a href="speakers-detail.html">Tariq Yasin Uzwal</a></h4>
+                            <h4 class="name"><a href="javascript:void(0)">Tariq Yasin Uzwal</a></h4>
                             <span class="designation">Co Founder</span>
                             <ul class="social-links social-icon-colored">
                                 <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -30,11 +30,11 @@
             <div class="speaker-block col-lg-4 col-md-6 col-sm-12">
                 <div class="inner-box">
                     <div class="image-box">
-                        <figure class="image"><a href="speakers-detail.html"><img src="{{asset('assets/images/team/co-founder/Tanveer-Rahman.png')}}" alt=""></a></figure>
+                        <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/images/team/co-founder/Tanveer-Rahman.png')}}" alt=""></a></figure>
                     </div>
                     <div class="info-box">
                         <div class="inner">
-                            <h4 class="name"><a href="speakers-detail.html">Tanveer Rahman</a></h4>
+                            <h4 class="name"><a href="javascript:void(0)">Tanveer Rahman</a></h4>
                             <span class="designation">Co Founder</span>
                             <ul class="social-links social-icon-colored">
                                 <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -51,11 +51,11 @@
             <div class="speaker-block col-lg-4 col-md-6 col-sm-12">
                 <div class="inner-box">
                     <div class="image-box">
-                        <figure class="image"><a href="speakers-detail.html"><img src="{{asset('assets/images/team/co-founder/Urmi-Adiba.png')}}" alt=""></a></figure>
+                        <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/images/team/co-founder/Urmi-Adiba.png')}}" alt=""></a></figure>
                     </div>
                     <div class="info-box">
                         <div class="inner">
-                            <h4 class="name"><a href="speakers-detail.html">Urmi Adiba</a></h4>
+                            <h4 class="name"><a href="javascript:void(0)">Urmi Adiba</a></h4>
                             <span class="designation">Co Founder</span>
                             <ul class="social-links social-icon-colored">
                                 <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -72,12 +72,12 @@
             <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
                 <div class="inner-box">
                     <div class="image-box">
-                        <figure class="image"><a href="speakers-detail.html"><img src="{{asset('../../assets/images/resource/speaker-4.jpg')}}" alt=""></a></figure>
+                        <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/images/team/team/Arnila Guha Nolok.jpg')}}" alt=""></a></figure>
                     </div>
                     <div class="info-box">
                         <div class="inner">
-                            <h4 class="name"><a href="speakers-detail.html">Mitchell Heggestad</a></h4>
-                            <span class="designation">Event Manager</span>
+                            <h4 class="name"><a href="javascript:void(0)">Arnila Guha Nolok</a></h4>
+                            <span class="designation">Team</span>
                             <ul class="social-links social-icon-colored">
                                 <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -88,17 +88,138 @@
                     </div>
                 </div>
             </div>
+            <!-- Speaker Block -->
+            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                <div class="inner-box">
+                    <div class="image-box">
+                        <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/images/team/team/naomi-ALAM.png')}}" alt=""></a></figure>
+                    </div>
+                    <div class="info-box">
+                        <div class="inner">
+                            <h4 class="name"><a href="javascript:void(0)">Naomi Alam</a></h4>
+                            <span class="designation">Team</span>
+                            <ul class="social-links social-icon-colored">
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Speaker Block -->
+            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                <div class="inner-box">
+                    <div class="image-box">
+                        <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/images/team/team/Kausik Roy.jpg')}}" alt=""></a></figure>
+                    </div>
+                    <div class="info-box">
+                        <div class="inner">
+                            <h4 class="name"><a href="javascript:void(0)">Kausik Roy</a></h4>
+                            <span class="designation">Team</span>
+                            <ul class="social-links social-icon-colored">
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Speaker Block -->
+            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                <div class="inner-box">
+                    <div class="image-box">
+                        <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/images/team/team/Maruna Rahee.jpg')}}" alt=""></a></figure>
+                    </div>
+                    <div class="info-box">
+                        <div class="inner">
+                            <h4 class="name"><a href="javascript:void(0)">Maruna Rahee</a></h4>
+                            <span class="designation">Team</span>
+                            <ul class="social-links social-icon-colored">
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Speaker Block -->
+            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                <div class="inner-box">
+                    <div class="image-box">
+                        <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/images/team/team/Mansoor Chowdhury.jpg')}}" alt=""></a></figure>
+                    </div>
+                    <div class="info-box">
+                        <div class="inner">
+                            <h4 class="name"><a href="javascript:void(0)">Mansoor Chowdhury</a></h4>
+                            <span class="designation">Team</span>
+                            <ul class="social-links social-icon-colored">
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Speaker Block -->
+            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                <div class="inner-box">
+                    <div class="image-box">
+                        <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/images/team/team/Masud Rahman Rana.jpg')}}" alt=""></a></figure>
+                    </div>
+                    <div class="info-box">
+                        <div class="inner">
+                            <h4 class="name"><a href="javascript:void(0)">Masud Rahman Rana</a></h4>
+                            <span class="designation">Team</span>
+                            <ul class="social-links social-icon-colored">
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Speaker Block -->
+            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                <div class="inner-box">
+                    <div class="image-box">
+                        <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/images/team/team/Tridib Chakraborty.jpg')}}" alt=""></a></figure>
+                    </div>
+                    <div class="info-box">
+                        <div class="inner">
+                            <h4 class="name"><a href="javascript:void(0)">Tridib Chakraborty</a></h4>
+                            <span class="designation">Team</span>
+                            <ul class="social-links social-icon-colored">
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
-            <!-- Speaker Block -->
+        <div class="row">
             <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
                 <div class="inner-box">
                     <div class="image-box">
-                        <figure class="image"><a href="speakers-detail.html"><img src="{{asset('../../assets/images/resource/speaker-5.jpg')}}" alt=""></a></figure>
+                        <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/images/team/Adviser/200 x 200/Adviser-AKM-Azad.png')}}" alt=""></a></figure>
                     </div>
                     <div class="info-box">
                         <div class="inner">
-                            <h4 class="name"><a href="speakers-detail.html">Kenyetta Lesley</a></h4>
-                            <span class="designation">Event Manager</span>
+                            <h4 class="name"><a href="javascript:void(0)">AKM Azad</a></h4>
+                            <span class="designation">Adviser</span>
                             <ul class="social-links social-icon-colored">
                                 <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -109,16 +230,15 @@
                     </div>
                 </div>
             </div>
-            <!-- Speaker Block -->
             <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
                 <div class="inner-box">
                     <div class="image-box">
-                        <figure class="image"><a href="speakers-detail.html"><img src="{{asset('../../assets/images/resource/speaker-6.jpg')}}" alt=""></a></figure>
+                        <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/images/team/Adviser/200 x 200/Adviser-Masud-Reza.png')}}" alt=""></a></figure>
                     </div>
                     <div class="info-box">
                         <div class="inner">
-                            <h4 class="name"><a href="speakers-detail.html">Shelly Verghese</a></h4>
-                            <span class="designation">Event Manager</span>
+                            <h4 class="name"><a href="javascript:void(0)">Masud Reza</a></h4>
+                            <span class="designation">Adviser</span>
                             <ul class="social-links social-icon-colored">
                                 <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -129,16 +249,15 @@
                     </div>
                 </div>
             </div>
-            <!-- Speaker Block -->
             <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
                 <div class="inner-box">
                     <div class="image-box">
-                        <figure class="image"><a href="speakers-detail.html"><img src="{{asset('../../assets/images/resource/speaker-7.jpg')}}" alt=""></a></figure>
+                        <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/images/team/Adviser/200 x 200/Adviser-Zahid-reza.png')}}" alt=""></a></figure>
                     </div>
                     <div class="info-box">
                         <div class="inner">
-                            <h4 class="name"><a href="speakers-detail.html">Cassandra Kopka</a></h4>
-                            <span class="designation">Event Manager</span>
+                            <h4 class="name"><a href="javascript:void(0)">Zahid Reza</a></h4>
+                            <span class="designation">Adviser</span>
                             <ul class="social-links social-icon-colored">
                                 <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -149,16 +268,91 @@
                     </div>
                 </div>
             </div>
-            <!-- Speaker Block -->
             <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
                 <div class="inner-box">
                     <div class="image-box">
-                        <figure class="image"><a href="speakers-detail.html"><img src="{{asset('../../assets/images/resource/speaker-8.jpg')}}" alt=""></a></figure
+                        <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/images/team/Adviser/200 x 200/Advisor-Subho-BandoPadhay.png')}}" alt=""></a></figure>
                     </div>
                     <div class="info-box">
                         <div class="inner">
-                            <h4 class="name"><a href="speakers-detail.html">Eugene Clumpner</a></h4>
-                            <span class="designation">Event Manager</span>
+                            <h4 class="name"><a href="javascript:void(0)">Subho BandoPadhay</a></h4>
+                            <span class="designation">Adviser</span>
+                            <ul class="social-links social-icon-colored">
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                <div class="inner-box">
+                    <div class="image-box">
+                        <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/images/team/Adviser/200 x 200/pic-Advisor-Syed-Ekramul-Haq.png')}}" alt=""></a></figure>
+                    </div>
+                    <div class="info-box">
+                        <div class="inner">
+                            <h4 class="name"><a href="javascript:void(0)">Syed Ekramul Haq</a></h4>
+                            <span class="designation">Adviser</span>
+                            <ul class="social-links social-icon-colored">
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                <div class="inner-box">
+                    <div class="image-box">
+                        <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/images/team/Adviser/200 x 200/Subhro-Mitra,-Adviser.png')}}" alt=""></a></figure>
+                    </div>
+                    <div class="info-box">
+                        <div class="inner">
+                            <h4 class="name"><a href="javascript:void(0)">Subhro Mitra</a></h4>
+                            <span class="designation">Adviser</span>
+                            <ul class="social-links social-icon-colored">
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                <div class="inner-box">
+                    <div class="image-box">
+                        <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/images/team/curator/Curator Premendra Mazumder.jpg')}}" alt=""></a></figure>
+                    </div>
+                    <div class="info-box">
+                        <div class="inner">
+                            <h4 class="name"><a href="javascript:void(0)">Premendra Mazumder</a></h4>
+                            <span class="designation">Curator</span>
+                            <ul class="social-links social-icon-colored">
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
+                <div class="inner-box">
+                    <div class="image-box">
+                        <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/images/team/curator/Curator-Bipuljit-Basu.png')}}" alt=""></a></figure>
+                    </div>
+                    <div class="info-box">
+                        <div class="inner">
+                            <h4 class="name"><a href="javascript:void(0)">Bipuljit Basu</a></h4>
+                            <span class="designation">Curator</span>
                             <ul class="social-links social-icon-colored">
                                 <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
