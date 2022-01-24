@@ -12,7 +12,6 @@
                     </div>
                 </div>
 
-
                 <!--Column-->
                 <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
                     <div class="count-box">

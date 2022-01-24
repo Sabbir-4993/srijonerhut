@@ -12,7 +12,7 @@
                         <li><span class="icon fa fa-user-alt"></span> 8 Film</li>
                         <li><span class="icon fa fa-map-marker-alt"></span> Plano, Texas</li>
                     </ul>
-                    <div class="btn-box"><a href="#" class="theme-btn btn-style-two"><span class="btn-title">Register Now</span></a></div>
+                    <div class="btn-box"><a href="https://filmfreeway.com/BengaliFilmFestivalofDallas" target="_blank" class="theme-btn btn-style-two"><span class="btn-title">Submit Your Flim</span></a></div>
                 </div>
             </div>
         </div>
@@ -28,7 +28,7 @@
                         <li><span class="icon fa fa-user-alt"></span> 8 Film</li>
                         <li><span class="icon fa fa-map-marker-alt"></span> Plano, Texas</li>
                     </ul>
-                    <div class="btn-box"><a href="#" class="theme-btn btn-style-two"><span class="btn-title">Register Now</span></a></div>
+                    <div class="btn-box"><a href="https://filmfreeway.com/BengaliFilmFestivalofDallas" target="_blank" class="theme-btn btn-style-two"><span class="btn-title">Submit Your Flim</span></a></div>
                 </div>
             </div>
         </div>
@@ -44,7 +44,7 @@
                         <li><span class="icon fa fa-user-alt"></span> 8 Film</li>
                         <li><span class="icon fa fa-map-marker-alt"></span> Plano, Texas</li>
                     </ul>
-                    <div class="btn-box"><a href="#" class="theme-btn btn-style-two"><span class="btn-title">Register Now</span></a></div>
+                    <div class="btn-box"><a href="https://filmfreeway.com/BengaliFilmFestivalofDallas" target="_blank" class="theme-btn btn-style-two"><span class="btn-title">Submit Your Flim</span></a></div>
                 </div>
             </div>
         </div>

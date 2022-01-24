@@ -1,7 +1,7 @@
 @extends('Frontend.master')
 
 @section('title')
-Srijoner Hut - Bengali Film Festival
+    Srijoner Hut - Bengali Film Festival
 @endsection
 
 
@@ -65,7 +65,7 @@ Srijoner Hut - Bengali Film Festival
 
     <!-- Pricing Section -->
 
-    @include('Frontend.component.ticket')
+
 
     <!--End Pricing Section -->
 
@@ -81,7 +81,6 @@ Srijoner Hut - Bengali Film Festival
 
     <!-- Why Choose Us -->
 
-    @include('Frontend.component.why_choose_us')
 
     <!-- End Why Choose Us -->
 
@@ -97,16 +96,16 @@ Srijoner Hut - Bengali Film Festival
 
     <!-- Register Section -->
 
-    @include('Frontend.component.register')
+
 
     <!--End Register Section -->
 
 
-{{--    @include('Frontend.component.gallery_slide')--}}
+    {{--    @include('Frontend.component.gallery_slide')--}}
 
     <!-- News Section -->
 
-{{--    @include('Frontend.component.blog')--}}
+    {{--    @include('Frontend.component.blog')--}}
 
     <!--End News Section -->
 

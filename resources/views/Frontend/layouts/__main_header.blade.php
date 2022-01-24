@@ -50,6 +50,9 @@
                 <div class="outer-box">
                     <!-- Button Box -->
                     <div class="btn-box">
+                        <a href="https://filmfreeway.com/BengaliFilmFestivalofDallas" target="_blank" class="theme-btn btn-style-one"><span class="btn-title">Submit Your Flim</span></a>
+                    </div>
+                    <div class="btn-box">
                         <a href="{{route('festival.tickets')}}" class="theme-btn btn-style-one"><span class="btn-title">Get Tickets</span></a>
                     </div>
                 </div>
