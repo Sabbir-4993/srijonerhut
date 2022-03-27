@@ -73,7 +73,7 @@
 
     <!-- Video Section -->
 
-    @include('Frontend.component.video')
+{{--    @include('Frontend.component.video')--}}
 
     <!--End Video Section -->
 

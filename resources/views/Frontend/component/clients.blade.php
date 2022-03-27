@@ -32,8 +32,6 @@
 
             <h3>Gold Sponsors</h3>
 
-
-
             <div class="row">
                 <!-- Client Block -->
                 <div class="client-block col-lg-3 col-md-6 col-sm-12">
@@ -49,6 +47,16 @@
                 <!-- Client Block -->
                 <div class="client-block col-lg-3 col-md-6 col-sm-12">
                     <figure class="image-box"><a href="#"><img src="{{asset('../../assets/images/clients/gold/03.png')}}" alt=""></a></figure>
+                </div>
+
+                <!-- Client Block -->
+                <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                    <figure class="image-box"><a href="#"><img src="{{asset('../../assets/images/clients/gold/04.png')}}" alt=""></a></figure>
+                </div>
+
+                <!-- Client Block -->
+                <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                    <figure class="image-box"><a href="#"><img src="{{asset('../../assets/images/clients/gold/05.png')}}" alt=""></a></figure>
                 </div>
             </div>
         </div>

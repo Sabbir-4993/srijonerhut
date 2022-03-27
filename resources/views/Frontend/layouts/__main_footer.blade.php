@@ -17,11 +17,9 @@
                                     <p>Srijoner Hut, Bengali film festival of Dallas will be fusing the spirit of the Bengal and combining it with award winning selection of Bengali films from every walk of life. The celebration of Bengali film would bring together the Bengali community with a sole focus on the Bengali film from both Bengal (Bangladesh & West Bengal) Europe and North America, A Brand New movement in USA.</p>
                                 </div>
                                 <ul class="social-icon-one social-icon-colored">
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="https://www.facebook.com/srijonerhut" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
                                     <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -31,9 +29,10 @@
                             <div class="footer-widget useful-links">
                                 <h2 class="widget-title">Useful Links</h2>
                                 <ul class="user-links">
-                                    <li><a href="#">About Us</a></li>
-                                    <li><a href="#">Gallery</a></li>
-                                    <li><a href="#">Contact Us</a></li>
+                                    <li><a href="{{route('about')}}">About Us</a></li>
+                                    <li><a href="{{route('news.video')}}">Video</a></li>
+                                    <li><a href="{{route('news.gallery')}}">Gallery</a></li>
+                                    <li><a href="{{route('contact')}}">Contact Us</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -82,32 +81,19 @@
                         <div class="footer-column col-lg-6 col-md-6 col-sm-12">
                             <!--Footer Column-->
                             <div class="footer-widget instagram-widget">
-                                <h2 class="widget-title">Instagram Gallery</h2>
+                                <h2 class="widget-title">Media Partner</h2>
                                 <div class="widget-content">
                                     <div class="outer clearfix">
                                         <figure class="image">
-                                            <a href="{{asset('assets/images/gallery/1.jpg')}}" class="lightbox-image" title="Image Title Here"><img src="{{asset('assets/images/resource/gw-1.jpg')}}" alt=""></a>
+                                            <a href="{{asset('assets/images/media/01.png')}}" class="lightbox-image" title="Image Title Here"><img src="{{asset('assets/images/media/01.png')}}" alt=""></a>
+                                        </figure>
+                                        <figure class="image">
+                                            <a href="{{asset('assets/images/media/02.png')}}" class="lightbox-image" title="Image Title Here"><img src="{{asset('assets/images/media/02.png')}}" alt=""></a>
+                                        </figure>
+                                        <figure class="image">
+                                            <a href="{{asset('assets/images/media/03.png')}}" class="lightbox-image" title="Image Title Here"><img src="{{asset('assets/images/media/03.png')}}" alt=""></a>
                                         </figure>
 
-                                        <figure class="image">
-                                            <a href="{{asset('assets/images/gallery/2.jpg')}}" class="lightbox-image" title="Image Title Here"><img src="{{asset('assets/images/resource/gw-2.jpg')}}" alt=""></a>
-                                        </figure>
-
-                                        <figure class="image">
-                                            <a href="{{asset('assets/images/gallery/3.jpg')}}" class="lightbox-image" title="Image Title Here"><img src="{{asset('assets/images/resource/gw-3.jpg')}}" alt=""></a>
-                                        </figure>
-
-                                        <figure class="image">
-                                            <a href="{{asset('assets/images/gallery/4.jpg')}}" class="lightbox-image" title="Image Title Here"><img src="{{asset('assets/images/resource/gw-4.jpg')}}" alt=""></a>
-                                        </figure>
-
-                                        <figure class="image">
-                                            <a href="{{asset('assets/images/gallery/5.jpg')}}" class="lightbox-image" title="Image Title Here"><img src="{{asset('assets/images/resource/gw-5.jpg')}}" alt=""></a>
-                                        </figure>
-
-                                        <figure class="image">
-                                            <a href="{{asset('assets/images/gallery/1.jpg')}}" class="lightbox-image" title="Image Title Here"><img src="{{asset('assets/images/resource/gw-6.jpg')}}" alt=""></a>
-                                        </figure>
                                     </div>
                                 </div>
                             </div>
